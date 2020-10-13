@@ -5,4 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes: []
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: dd4715c90089542a4b99c0e7b1210aee,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bc11a12e34cf745b8a5815a196a45813,
+      type: 2}
